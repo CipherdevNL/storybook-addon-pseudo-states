@@ -2,7 +2,7 @@
 
 #### 🐛 Bug Fix
 
-- Setup auto [#7](https://github.com/chromaui/storybook-addon-pseudo-states/pull/7) ([@ghengeveld](https://github.com/ghengeveld))
+- Setup auto [#7](https://github.com/cipherdevnl/storybook-addon-pseudo-states/pull/7) ([@ghengeveld](https://github.com/ghengeveld))
 
 #### ⚠️ Pushed to `main`
 
